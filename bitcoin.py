@@ -9,10 +9,19 @@ TICKER_API_URL = 'https://api.coinmarketcap.com/v1/ticker/'
 # Function to get the latest crypto currency price for a secific crypto( bitocin. litecoin, ethereum)
 def get_latest_crypto_price(crypto):
 
-    response = request.get(TICKER_API_URL+crypto)
+    response = requests.get(TICKER_API_URL+crypto)
     response_json = response.json()
 
-    return florat(response_json[0]['price_usd']
+    return float(response_json[0]['price_usd']
 
     # Test the function
-    get_latest_crypto_price('bitcoin')
+get_latest_crypto_price('bitcoin')
+
+def main()
+
+    crypto = "bitcoin"
+    price = get_latest_crypto_price(crypto)
+
+    print('Bitcoin Price:',price)
+
+main()
