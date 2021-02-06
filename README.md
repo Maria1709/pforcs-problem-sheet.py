@@ -2,7 +2,12 @@
 # Author Maria Carroll
 # Lecturer: Andrew Beatty
 
-# BMI
+# This readme contains inforamtion regarding a series of problems and their solutions:
+# 1: BMI
+# 2: Email
+# 3: Bitcoin
+# 4: Collatz
+
 ## Here we are writng a program to take information from the user to assertain a bmi result from their input 
 
 ### 
