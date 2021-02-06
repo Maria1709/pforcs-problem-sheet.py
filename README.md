@@ -107,3 +107,21 @@ while n != 1:
 
 # Finally, print the 1.
 print (n)
+
+# Terminal print out below
+
+16
+8
+4
+2
+1
+PS C:\Users\maria\OneDrive\Desktop\Programming\pforcs-problem-sheet.py> python .\Collatz.py
+Enter a positive integer: 10
+10
+5
+16
+8
+4
+2
+1
+PS C:\Users\maria\OneDrive\Desktop\Programming\pforcs-problem-sheet.py> 
