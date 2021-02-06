@@ -3,9 +3,7 @@ pforcs|File|problem sheet
 -----|----|-----------
 **Topic1**|bmi.py|Week2 Problem Sheet - Modify the script to return the bmi: bmi = weight/(height**2)
 **Topic2**|email.py|Week2 Problem Sheet - Modify the script to send an email via gmail
-
 **Topic3**|bitcoin.py|Week 3 Problem Sheet - Modify the scripty to get the up to date 
-
 **Topic4**|Collatz Conjecture|Week4 Problem Sheet -Write a Python script that performs a sequence that repeatedly beginning with a postive integer and taking the result as the input at the next.
 
 **Topic4**|Project Euler 5|Week5 Problem Sheet - Write a Python program using for and range to calculate the smallest possible number that is evenly devisable by all of the numbers from 1-20.
