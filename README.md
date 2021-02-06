@@ -44,7 +44,7 @@ elif ( bmi >=30):
 ## import smtplib
 import smtplib
 
-## input emailaddress
+## input email address
 username = 'mariacarroll3527@gmail.com'
 password = 'notsecure'
 toEmail = 'G00364700@gmit.ie'
@@ -56,3 +56,37 @@ server.login(username,password)
 server.sendmail(FROM_EMAIL_ADDRESS,TO_EMAIL_ADDRESS,MESSAGE)
 
 
+# Bitcoin
+
+## Description : Get the current bitcoin price
+
+#Import the requests library
+import requests
+
+## get the URL ticker to get the .json file of the crypto currency
+TICKER_API_URL = 'https://api.coinmarketcap.com/v1/ticker/'
+
+## Function to get the latest crypto currency price for a secific crypto( bitocin. litecoin, ethereum)
+def get_latest_crypto_price(crypto):
+
+    response = requests.get(TICKER_API_URL+crypto)
+    response_json = response.json()
+
+    return float(response_json[0]['price_usd']
+
+## Test the function
+get_latest_crypto_price('bitcoin')
+
+def main()
+
+    crypto = "bitcoin"
+    price = get_latest_crypto_price(crypto)
+
+    print('Bitcoin Price:',price)
+
+main()
+
+
+# Collatz
+
+## Description:
