@@ -2,7 +2,6 @@
 pforcs|File|problem sheet
 -----|----|-----------
 **Topic1**|bmi.py|Week2 Problem Sheet - Modify the script to return the bmi: bmi = weight/(height**2)
-
 **Topic2**|email.py|Week2 Problem Sheet - Modify the script to send an email via gmail
 
 **Topic3**|bitcoin.py|Week 3 Problem Sheet - Modify the scripty to get the up to date 
