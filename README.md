@@ -1,5 +1,5 @@
 
-pforcs|Problemtitle|Problem sheet
+pforcs|Problem title|Problem sheet
 -----|----|-----------
 **Topic1**|bmi.py|Week2 Problem Sheet - Modify the script to return the bmi: bmi = weight/(height**2)
 **Topic2**|email.py|Week2 Problem Sheet - Modify the script to send an email via gmail
