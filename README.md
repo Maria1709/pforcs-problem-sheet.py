@@ -130,3 +130,16 @@ Enter a positive integer: 10
 2
 1
 PS C:\Users\maria\OneDrive\Desktop\Programming\pforcs-problem-sheet.py> 
+
+
+
+
+# References
+   # 
+	# https://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf
+	# https://automatetheboringstuff.com/chapter3/
+	# https://stackoverflow.com/questions/33324432/collatz-sequence-python-3
+	# https://stackoverflow.com/questions/33508034/making-a-collatz-program-automate-the-boring-stuff
+	# https://www.geeksforgeeks.org/program-to-print-collatz-sequence/
+
+
