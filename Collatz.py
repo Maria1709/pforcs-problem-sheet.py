@@ -1,7 +1,7 @@
 # The number we will perform the Collatz operations on.
 n = int(input("Enter a positive integer: "))
 
-# Keep loopong until we reach 1.
+# Keep looping until we reach 1.
 # note: this assumes the Collatz conjecture is true.
 while n != 1:
     # Print the current value of n.
