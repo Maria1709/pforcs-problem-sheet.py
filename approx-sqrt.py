@@ -13,9 +13,9 @@ def sqrt(x):
         z -= (z*z - x) / (2*z)
 
     return z
-# Calculate the square root of 8
+# Calculate the square root of 14.8
 
-z = (sqrt(8.0))
+z = (sqrt(14.8))
 # Print z
 print (z)
 # Print the square root of the square of z.
