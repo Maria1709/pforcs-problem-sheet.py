@@ -1,3 +1,4 @@
+# Author Maria Carroll
 #Adapted from:https://tour.golang.org/flowcontrol/8
 
 def sqrt(x):
