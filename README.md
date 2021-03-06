@@ -7,7 +7,7 @@ pforcs|Problem title|Problem sheet
 **Topic4**|Collatz Conjecture|Week4 Problem Sheet -Write a Python script that performs a sequence that repeatedly beginning with a postive integer and taking the result as the input at the next.
 **Topic5**|approx-sqrt.py|Week 5 Problem Sheet - Write a Python Program that takes a positive floating-point number as input and outputs an approximation of its square root.
 **Topic6**|moby.py|Week6 Problem Sheet - Write a program that reads in a text file and outputs the number of e's it contains.
-**Topic5**|Openfile.py|Week6 Problem SHeet - Write a Python script that reads the Iris data set and prints the four numerical values on each row in a nice format, Petal width, Petal length,Sepal length and Sepal width.
+**Topic7**|ExtractURL.py|Week7 Problem Sheet -  Write a program called extract-url.py, that will extract the URLs from an access.log file.
 **Topic6**|Function.py|Week7 Problem Sheet - Write a Pyhton script conataining a function called (factorial) that takes a single input/argument which is a positive integer and returns its factorial.With values 5,7 and 10.
 
 
