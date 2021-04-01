@@ -10,7 +10,7 @@ def sqrt(x):
     # While the difference between those two numbers is greater than or equal to 
     # 0.01. want to be 0.01 close to 0
     while abs(z*z - x) >= 0.01:
-        # Get a better apporximation for the square root. by multiplying z by itself should get a very close or even the exact value of x.
+        # Get a better approximation for the square root. by multiplying z by itself should get a very close or even the exact value of x.
         z -= (z*z - x) / (2*z)
 
     return z
