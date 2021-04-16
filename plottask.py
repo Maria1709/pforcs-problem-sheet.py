@@ -1,5 +1,8 @@
 # Author Maria carroll
 # Week 8
+# https://realpython.com/python-matplotlib-guide/
+# Lecture 8 Plotting
+# Lecturer: Andrew Beatty
 
 import matplotlib.pyplot as plt # import matplotib to plot our graph
 import numpy as np # import numpy to mathematically manipulate the data
