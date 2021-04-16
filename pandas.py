@@ -10,7 +10,7 @@ fileName = 'access.log'
 
 try:
     file = open(fileName, 'r') # opens file
-# column names etc
+    column names etc
 
     colNames= ('ip', 'time', 'url', 
            'status code', 'data response', 'referer', 'user agent', 'session id')
@@ -22,7 +22,7 @@ try:
     df['time'] = pd.to_datetime(df['time'], format='%d/%b/%Y:%H:%M:%S')
    # indexing datetime
     df = df.set_index(['time'])
-# extracting session id
+# extracting the session id
     def extract_sessionid(x):
         wibble = re.search('(JSESSIONID=\S+)', x).group()
         id = re.split('=', wibble)[1]
