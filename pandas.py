@@ -1,6 +1,8 @@
 #Author: Maria carroll
 #Ref:https://realpython.com/pandas-groupby/
 #https://pandas.pydata.org/
+# Lecture 10 Errors testing and logging 
+# Lecturer: Andrew Beatty
 
 import pandas as pd
 import re 
