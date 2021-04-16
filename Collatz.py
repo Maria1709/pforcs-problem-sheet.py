@@ -1,3 +1,11 @@
+# Author: Maria Carroll
+# Week 4
+# https://docs.python.org/3/tutorial/controlflow.html
+# Lecture: Controlling the flow
+# Lecturer: Andrew Beatty
+
+
+
 # The number we will perform the Collatz operations on.
 n = int(input("Enter a positive integer: "))
 
