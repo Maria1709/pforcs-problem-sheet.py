@@ -1,4 +1,7 @@
 # Author:Maria Carroll
+# Week 9 Session id
+# https://www.programcreek.com/python/?CodeExample=get+session
+# Lecturer Andrew Beatty
 
 import pandas as pd
 import numpy as np
@@ -7,7 +10,7 @@ import matplotlib.pyplot as plt
 
 # open file access.log
 filename = "access.log"
-#opening file
+# open file
 try:
     file = open(filename, 'r', encoding='utf8')
 except FileNotFoundError:
