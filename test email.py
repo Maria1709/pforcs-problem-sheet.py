@@ -1,6 +1,6 @@
 # send an email via gmail
 # author maria carrolll
-
+# Lecturer: Andrew Beatty
 
 import smtplib
 
