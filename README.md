@@ -10,7 +10,7 @@ pforcs|Problem title|Problem sheet
 **Topic7**|ExtractURL.py|Week7 Problem Sheet -  Write a program called extract-url.py, that will extract the URLs from an access.log file.
 **Topic8**|Plottask.py|Week8 Problem Sheet - Write a program called plottask.py that displays a plot of the functions f(x)=x, g(x)=x2 and h(x)=x3 in the range [0, 4] on the one set of axes. 
 **Topic9**|SessionId|Week9 Problem Sheet - I want to find which sessionId downloaded the most data
-**Topic10**|Funcitons| Week10 Problem Sheet - Write a (bullet proof) function called averageTo(aList, toIndex)
+**Topic10**|Functions| Week10 Problem Sheet - Write a (bullet proof) function called averageTo(aList, toIndex)
 
 
 # Author Maria Carroll
