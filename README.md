@@ -45,6 +45,15 @@ pforcs|Problem title|Problem sheet
 	# https://stackoverflow.com/questions/33324432/collatz-sequence-python-3
 	# https://stackoverflow.com/questions/33508034/making-a-collatz-program-automate-the-boring-stuff
 	# https://www.geeksforgeeks.org/program-to-print-collatz-sequence/
-	#
+	# https://www.programcreek.com/python/?CodeExample=get+session
+	# https://realpython.com/python-bitcoin-ifttt/
+	# https://pandas.pydata.org/pandas-docs/version/0.25.3/user_guide/groupby.html
+	# https://stackoverflow.com/questions/33324432/collatz-sequence-python-3
+	# https://www.w3schools.com/python/python_functions.asp
+	# https://realpython.com/python-square-root-function/
+	# https://pandas.pydata.org/pandas-docs/version/0.15/tutorials.html
+	# https://matplotlib.org/
+	# https://www.tutorialspoint.com/python_text_processing/python_extract_url_from_text.htm
+	# https://stackoverflow.com/questions/4703390/how-to-extract-a-floating-number-from-a-string
 
 
