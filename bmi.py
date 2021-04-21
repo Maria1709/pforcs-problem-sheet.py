@@ -1,3 +1,11 @@
+# Author Maria carroll
+# Week 2
+# https://www.w3resource.com/python-exercises/python-basic-exercise-66.php
+# Lecture 2 Statements
+# Lecturer: Andrew Beatty
+
+
+
 #Here we are writng a program to take information from the user to assertain a bmi result from their input 
 
 height = float(input ("Enter height in metres: "))
