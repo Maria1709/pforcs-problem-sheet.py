@@ -1,3 +1,10 @@
+# Author: Maria Carroll
+# https://realpython.com/python-bitcoin-ifttt/
+# Week
+# Lecturer: Andrew Beatty
+
+
+
 # Description : Get the current bitcoin price
 
 #Import the requests library
