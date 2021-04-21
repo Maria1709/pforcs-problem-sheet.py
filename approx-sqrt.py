@@ -1,5 +1,7 @@
 # Author Maria Carroll
-#Adapted from:https://tour.golang.org/flowcontrol/8
+# Adapted from:https://tour.golang.org/flowcontrol/8
+# https://realpython.com/python-square-root-function/
+# Lecturer Andrfew Beatty
 
 def sqrt(x):
     # Initial guess,
